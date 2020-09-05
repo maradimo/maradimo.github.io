@@ -18,7 +18,7 @@ nav-menu: true
 		</header>
 		<p>Description</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Check out the Lab!</a></li>
+			<li><a href="http://liinc.bme.columbia.edu/#:~:text=Columbia%20University's%20Laboratory%20for%20Intelligent,September%202000%20by%20Paul%20Sajda.&text=Our%20laboratory%20pursues%20both%20basic%20and%20applied%20neurosciences%20research%20projects." class="button next">Check out the Lab!</a></li>
 		</ul>
 	</div>
 </section>
