@@ -22,8 +22,8 @@ title: Mara Dimofte
 email: mara.dimofte@columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am a rising junior at Columbia University majoring in Computer Science!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://maradimofte.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "maradimofte.com" # the subpath of your site, e.g. /blog
+url: "maradimofte.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  maradimo
 
 # Build settings
