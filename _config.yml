@@ -1,17 +1,9 @@
 # site settings
 title: Mara Dimofte
-subtitle: junior majoring in Computer Science at Columbia University
 email: mara.dimofte@columbia.edu
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Hi! I am a junior at Columbia University in love with tech and art!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maradimo.github.io"# the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +12,10 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+google_url: https://www.engineering.columbia.edu/egleston-scholars/mara-dimofte
+linkedin_url: https://www.linkedin.com/in/mara-dimofte-797779174/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
 
 url: "https://maradimo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  maradimo
