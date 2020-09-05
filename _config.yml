@@ -4,8 +4,7 @@ subtitle: junior majoring in Computer Science at Columbia University
 email: mara.dimofte@columbia.edu
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "" # the subpath of your site, e.g. /blog
-<<<<<<< HEAD
-url: "https//:maradimo.github.io"# the base hostname & protocol for your site
+url: "https://maradimo.github.io"# the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
