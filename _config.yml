@@ -28,10 +28,10 @@ linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/andrewbanchich
-=======
+
 url: "https://maradimo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  maradimo
->>>>>>> 36411c04e2b6704dbb3196394511ab1dee97fa95
+
 
 # build settings
 markdown: kramdown
