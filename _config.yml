@@ -1,7 +1,7 @@
 # site settings
 title: Mara Dimofte
 email: mara.dimofte@columbia.edu
-description: Hi! I am a junior at Columbia University in love with tech and art!
+description: I am a junior at Columbia University in love with tech and art!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maradimo.github.io"# the base hostname & protocol for your site
 
