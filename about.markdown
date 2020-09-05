@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
+description: 'This is my description'
 permalink: /about/
 ---
 
-My description goes here
+<!-- Main -->
+<div id="main">
