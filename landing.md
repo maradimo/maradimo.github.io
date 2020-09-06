@@ -4,6 +4,7 @@ layout: landing
 image: assets/images/pic07.jpg
 ---
 
+<div id="main">
 
 <!-- One -->
 <section id="one">
