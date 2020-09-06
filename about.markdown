@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: 'I am passionate about solving real world problems by developing technology that allows people to interact most efficiently with computers!'
-image: assets/images/pic03.jpg
+image: assets/images/pic02.jpg
 permalink: /about/
 ---
 <!-- Main -->
@@ -12,12 +12,8 @@ permalink: /about/
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2> About Me </h2>
-		</header>
 		<p>"I'm a Computer Science sudent at Columbia Engineering passionate about solving real world problems by developing technology that allows people to interact most efficiently with computers! In my free time I am probably somewhere in NYC looking for art galleries, trying out new recipes with my friends or up in the mountains skiing with the Columbia Ski Team. If you would like to find out more about me, about what I do or simply say hi, send me a message below!"</p>
-	
-	</div>
+    </div>
 </section>
 
 </div>
