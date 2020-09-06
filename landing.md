@@ -3,7 +3,6 @@ title: Research
 layout: landing
 description: 'This is my research description'
 image: assets/images/pic07.jpg
-nav-menu: true
 ---
 
 

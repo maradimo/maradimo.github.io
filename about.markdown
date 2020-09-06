@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-description: 'This is my description'
+title: About Me
+description: 'I am passionate about solving real world problems by developing technology that allows people to interact most efficiently with computers!'
 permalink: /about/
 ---
 <!-- Main -->
