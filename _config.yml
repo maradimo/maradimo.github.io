@@ -17,14 +17,10 @@ linkedin_url: https://www.linkedin.com/in/mara-dimofte-797779174/
 github_url: https://github.com/maradimo
 pinterest_url:
 slack_url:
-<<<<<<< HEAD
-twitter_url: https://twitter.com/andrewbanchich
-=======
 
 url: "https://maradimo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  maradimo
 
->>>>>>> 513d1ddf6889d68e1efb3cb76a2f8b3b39fec85f
 
 # build settings
 markdown: kramdown
