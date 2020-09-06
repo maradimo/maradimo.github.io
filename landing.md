@@ -16,4 +16,3 @@ image: assets/images/pic07.jpg
 	</div>
 </section>
 
-</div>
