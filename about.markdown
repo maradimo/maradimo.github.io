@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 description: 'I am passionate about solving real world problems by developing technology that allows people to interact most efficiently with computers!'
+image: assets/images/pic03.jpg
 permalink: /about/
 ---
 <!-- Main -->
