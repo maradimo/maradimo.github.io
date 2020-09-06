@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+image: assets/images/pic02.jpg
 permalink: /about/
 ---
 <!-- Main -->
